@@ -1,0 +1,2 @@
+D:\GitHub Projects\QTTrans\client\release\client.exe
+D:\GitHub Projects\QTTransFiles\client\release\client.exe

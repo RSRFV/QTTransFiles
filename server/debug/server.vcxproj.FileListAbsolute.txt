@@ -1,0 +1,2 @@
+C:\Users\1\Desktop\socket_qt\代码\server\debug\server.exe
+D:\GitHub Projects\QTTrans\server\debug\server.exe

@@ -1,0 +1,12 @@
+﻿  Generate moc_predefs.h
+  main.cpp
+  mainwindow.cpp
+  mytcpserver.cpp
+  recvwork.cpp
+  sendwork.cpp
+  qrc_res.cpp
+  moc_mainwindow.cpp
+  moc_mytcpserver.cpp
+  moc_recvwork.cpp
+  moc_sendwork.cpp
+  server.vcxproj -> D:\GitHub Projects\QTTransFiles\server\release\server.exe

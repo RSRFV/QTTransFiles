@@ -1,0 +1,10 @@
+﻿  Generate moc_predefs.h
+  main.cpp
+  mainwindow.cpp
+  recvwork.cpp
+  sendwork.cpp
+  qrc_res.cpp
+  moc_mainwindow.cpp
+  moc_recvwork.cpp
+  moc_sendwork.cpp
+  client.vcxproj -> D:\GitHub Projects\QTTransFiles\client\release\client.exe
